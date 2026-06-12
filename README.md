@@ -14,7 +14,7 @@
 I'm a **Full-Stack Developer** with **3+ years** of experience designing and building end-to-end web applications.
 
 - 💼 Currently at **[360 Strategic Risk](https://www.360strategicrisk.com)** since 04/2025
-- 🎓 Higher Technical Degree in Computer Programming — **Universidad Tecnológica Nacional (UTN)** (graduating 01/2026)
+- 🎓 Higher Technical Degree in Computer Programming — **Universidad Tecnológica Nacional (UTN)**
 - ❤️ Favorite stack: **Angular + ASP.NET**
 - 📍 Buenos Aires, Argentina
 
